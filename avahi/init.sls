@@ -15,4 +15,3 @@ avahi-daemon.conf:
       - pkg: avahi-daemon
     - watch_in:
       - service: {{ avahi.service }}
->>>>>>> 7c7b4cfa320c2342a936752b775e99c57add78f3
